@@ -38,7 +38,7 @@ But just be careful. If you want to upload your contents, You should verify(KYC)
 - Kiosk App: https://ethglobaltokyokiosk.s3.ap-northeast-1.amazonaws.com/index.html?id=0
   id=0 is important! you can associate your ads spot by using query parameter like that.
   
-- Front App
+- Front App: https://adtokenverse.netlify.app/
 - Smart Contracts
  - Ads content Token: 0xf70B47083c49F192e8DBe9c2612dc9cFE77830BB
  - Ads Spot Token: 0x06C96F03934c7799FEae82f62F887BdC9dD5f1fE
