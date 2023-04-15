@@ -40,8 +40,8 @@ But just be careful. If you want to upload your contents, You should verify(KYC)
   
 - Front App
 - Smart Contracts
- - Ads content Token
- - Ads Spot Token
+ - Ads content Token: 0x06C96F03934c7799FEae82f62F887BdC9dD5f1fE
+ - Ads Spot Token: 0xf70B47083c49F192e8DBe9c2612dc9cFE77830BB
  
 ## Architecture
 <img width="526" alt="image" src="https://user-images.githubusercontent.com/76513865/232230327-3120d87d-9338-4587-8e68-e7c5f954d98a.png">
