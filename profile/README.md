@@ -35,7 +35,9 @@ But just be careful. If you want to upload your contents, You should verify(KYC)
 - 3ndless: Frontend
 
 ## Environment
-- Kiosk App
+- Kiosk App: https://ethglobaltokyokiosk.s3.ap-northeast-1.amazonaws.com/index.html?id=0
+  id=0 is important! you can associate your ads spot by using query parameter like that.
+  
 - Front App
 - Smart Contracts
  - Ads content Token
